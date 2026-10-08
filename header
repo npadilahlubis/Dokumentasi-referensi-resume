@@ -1,0 +1,21 @@
+<div class="header" id="home">
+  <table class="lebar-penuh">
+    <tr>
+      <td class="header-logo">
+        <!-- Logo berbentuk teks -->
+        <a href="#home" class="logo"><i>Pastie</i> Bestie</a>
+      </td>
+      <td class="header-menu">
+        <ul class="menu">
+          <li><a href="#home">Home</a></li>
+          <li><a href="#product">Product</a></li>
+          <li><a href="#outlet">Outlet</a></li>
+          <li><a href="#tentang">Tentang</a></li>
+        </ul>
+      </td>
+      <td class="header-cta">
+        <!-- Call to Action unik -->
+        <a href="#pesan" class="tombol-cta">Gigit Dulu, Mikir Belakangan!</a>
+      </td>
+    </tr>
+  </table>
